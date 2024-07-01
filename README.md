@@ -7,3 +7,5 @@ Olá! Sou o Lucas Viana, um estudante entusiasta de Engenharia da Computação b
 💻 Interesses: Desenvolvimento de software, sistemas embarcados, inteligência artificial e redes de computadores.
 
 📚 Sempre em busca de novos desafios e oportunidades para crescer na área da tecnologia.
+
+🔗 LinkedIn:https://www.linkedin.com/in/lucas-viana-6b13b1178/
