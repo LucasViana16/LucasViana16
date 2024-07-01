@@ -8,4 +8,5 @@ Olá! Sou o Lucas Viana, um estudante entusiasta de Engenharia da Computação b
 
 📚 Sempre em busca de novos desafios e oportunidades para crescer na área da tecnologia.
 
+📧 Email: lucasviana88@yahoo.com.br
 🔗 LinkedIn:https://www.linkedin.com/in/lucas-viana-6b13b1178/
